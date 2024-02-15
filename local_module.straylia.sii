@@ -1,0 +1,93 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	#TIMEZONES
+		key[]: "tz_acst"
+		val[]: "澳大利亚中部标准时间"
+
+		key[]: "tz_aest"
+		val[]: "澳大利亚东部标准时间"
+
+		key[]: "tz_awst"
+		val[]: "澳大利亚西部标准时间"
+
+	#COUNTRIES
+		key[]: "nsw"
+		val[]: "新南威尔士州"
+
+		key[]: "nt"
+		val[]: "北领地"
+
+		key[]: "qld"
+		val[]: "昆士兰州"
+
+		key[]: "sa"
+		val[]: "南澳大利亚州"
+
+		key[]: "vic"
+		val[]: "维多利亚州"
+
+		key[]: "wa"
+		val[]: "西澳大利亚州"
+
+	#CITIES
+		key[]: "balladon"
+		val[]: "巴拉多尼亚"
+
+		key[]: "bookabie"
+		val[]: "布卡比"
+
+		key[]: "caiguna"
+		val[]: "凯古纳"
+
+		key[]: "ceduna"
+		val[]: "赛杜纳"
+
+		key[]: "cockleb"
+		val[]: "科克尔比迪"
+
+		key[]: "coorab"
+		val[]: "库拉比"
+
+		key[]: "eucla"
+		val[]: "尤克拉"
+
+		key[]: "fraser_r"
+		val[]: "弗雷泽山脉"
+
+		key[]: "koonibba"
+		val[]: "库尼巴"
+
+		key[]: "madura"
+		val[]: "马都拉"
+
+		key[]: "mundrab"
+		val[]: "蒙德拉比拉"
+
+		key[]: "norseman"
+		val[]: "诺斯曼"
+
+		key[]: "penong"
+		val[]: "佩农"
+
+		key[]: "uworra"
+		val[]: "乌沃拉"
+
+		key[]: "watraba"
+		val[]: "瓦特拉巴"
+
+		key[]: "woorlba"
+		val[]: "沃尔巴"
+
+		key[]: "yalata"
+		val[]: "雅拉塔"
+
+	#CARGO
+		key[]: "p_m"
+		val[]: "贵金属"
+
+
+}
+}

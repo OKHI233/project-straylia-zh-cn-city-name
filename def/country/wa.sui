@@ -1,0 +1,40 @@
+
+country_data : country.data.wa
+{
+	country_id: 90
+
+	name: "Western Australia"
+	name_localized: "@@wa@@"
+	country_code: "WA"
+
+	pos: (1000, 0, -62000)
+
+	fuel_price: 1.14	# $2.409/gallonUS = $0.63639047/litre
+
+	lights_mandatory: false
+	imperial_units: false
+	driving_tired_offence: true
+
+	time_zone: +480		# +8 hours in minutes
+	time_zone_name: "@@tz_awst@@"
+
+	mass_limit_per_axle_count[]: 15000		# 2-axle vehicle
+	mass_limit_per_axle_count[]: 25000      # 3-axle vehicle
+	mass_limit_per_axle_count[]: 32000      # 4-axle vehicle
+	mass_limit_per_axle_count[]: 40000      # 5-axle vehicle
+	mass_limit_per_axle_count[]: 46000      # 6 axle vehicle
+	mass_limit_per_axle_count[]: 57000      # 7-axle vehicle
+	mass_limit_per_axle_count[]: 63000      # 8-axle vehicle
+	mass_limit_per_axle_count[]: 74000      # 9-axle vehicle
+	mass_limit_per_axle_count[]: 80000      # 10-axle vehicle
+	mass_limit_per_axle_count[]: 85000      # 11-axle vehicle
+	mass_limit_per_axle_count[]: 91000		# 12-axle vehicle
+	mass_limit_per_axle_count[]: 100000      # 13-axle vehicle
+	mass_limit_per_axle_count[]: 108000      # 14-axle vehicle
+	mass_limit_per_axle_count[]: 113000      # 15-axle vehicle
+	mass_limit_per_axle_count[]: 125000      # 16 axle vehicle
+	mass_limit_per_axle_count[]: 130000      # 17-axle vehicle
+	mass_limit_per_axle_count[]: 136000      # 18-axle vehicle
+	mass_limit_per_axle_count[]: 850000      # 19 and more-axle vehicle
+}
+

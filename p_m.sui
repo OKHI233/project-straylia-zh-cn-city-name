@@ -1,0 +1,12 @@
+cargo_data: cargo.p_m
+{
+	name: "@@p_m@@"
+	fragility: 0.2
+	group[]: bulk
+	volume: 1
+	mass: 850
+	unit_reward_per_km: 0.5
+	unit_load_time: 30
+	body_types[]: _bdumm_2sand
+	body_types[]: hopper
+}
